@@ -55,7 +55,7 @@ The project demonstrates the use of **KPIs, charts, filters, navigation, and dri
 (Add screenshots here after exporting images from Power BI)
 
 Example:  
-![Sales Dashboard Preview](images/sales_report.png)  
+![Sales Dashboard Preview](https://github.com/Rutvik1429/Power-BI_Assignmnet/blob/main/Finance%20Dashboard%20(Sales%20Report).png)  
 ![Profit Dashboard Preview](images/profit_report.png)
 
 
